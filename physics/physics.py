@@ -32,5 +32,5 @@ def apply_collision(player, ground, platforms):
                 else:
                     player.on_ground = False
                 return
- 
+    
     player.on_ground = False
